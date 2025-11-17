@@ -1,1 +1,2 @@
 # No external packages needed yet for the format engine.
+streamlit==1.39.0
