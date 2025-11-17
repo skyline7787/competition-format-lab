@@ -10,8 +10,8 @@ def run_example():
     - Double round-robin
     You can change these numbers to simulate other formats.
     """
-    num_teams = 24
-    group_size = 4
+    num_teams = 55
+    group_size = 5
     double_round = True
 
     matches = build_group_stage(
